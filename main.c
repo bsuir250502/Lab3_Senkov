@@ -3,6 +3,19 @@
 #include <string.h>
 #include "lib1.h"
 
+#define MAX_NUMBER_OF_SYMBL 256
+
+typedef struct information {
+	char name[MAX_NUMBER_OF_SYMBL];
+	char main_info[MAX_NUMBER_OF_SYMBL];
+	information *next;
+} information_t;
+
+typedef struct control {
+	information_t *first;
+	information_t *last;
+} control_t;
+
 /* function from lib1.h */
 void help_output();
 

@@ -1,6 +1,6 @@
 ===============================================================
 
-        					MANUAL:
+        	MANUAL:
 
 
   Input of information about inventions:

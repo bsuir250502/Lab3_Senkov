@@ -27,4 +27,4 @@ A remote control is a component of an electronics device, most commonly a televi
 14)Computer
 A computer is a general purpose device that can be programmed to carry out a finite set of arithmetic or logical operations.
 15)Domestic robot
-A domestic robot, or service robot, is an autonomous robot that is used for household chores. Thus far, there are only a few limited models, though speculators, such as Bill Gates, have suggested that they could become more common in the future. Many domestic robots are used for basic household chores. 
+A domestic robot, or service robot, is an autonomous robot that is used for household chores. 
