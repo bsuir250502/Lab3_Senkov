@@ -3,7 +3,7 @@
         	MANUAL:
 
 
-  Input of information about inventions:
+  Input of information about appliance:
 
       1) automatic input:
       	* name.

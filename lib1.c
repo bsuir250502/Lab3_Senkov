@@ -3,7 +3,7 @@
 #include <string.h>
 
 /* function for input and valid infomation (srting). */
-void input_valid_string_data(char *information, char *input_text, int max_number_of_symbols)
+void str_input(char *information, char *input_text, int max_number_of_symbols)
 {
     while (1) {
         printf("%s", information);
@@ -19,7 +19,7 @@ void input_valid_string_data(char *information, char *input_text, int max_number
 }
 
 /* function for input and valid infomation (int). */
-int input_valid_int_data(char *information, int Min, int Max)
+int int_input(char *information, int Min, int Max)
 {
     int input_text;
     char input_buffer[128];

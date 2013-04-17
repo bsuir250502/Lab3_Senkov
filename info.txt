@@ -1,30 +1,29 @@
-1)Knife
-Knife is a cutting tool with an exposed cutting edge or blade, hand-held or otherwise, with or without a handle.
-2)Bow and arrow
-The bow and arrow is a projectile weapon system that predates recorded history and is common to most culture.
-3)Spear-thrower
-An Atlatl or spear thrower is a tool that uses leverage to achieve greater velocity in throwing light spears or darts.
-4)Boat
-A boat is a watercraft of any size designed to float or plane, to provide passage across water.
-5)Sled
-A sled is a land vehicle with a smooth underside or possessing a separate body supported by two or more smooth.
-6)Candle
-A candle is a solid block of wax with an embedded wick, which is ignited to provide light, and sometimes heat.
-7)Toilet
-A toilet is a sanitation fixture used primarily for the disposal of human excrement and urine.
-8)Catapult
-A catapult is a device used to throw or hurl a projectile a great distance.
-9)Saddle
-The saddle is a supportive structure for a rider or other load, fastened to an animal's back by a girth.
-10)Arquebus
-The arquebus or "hook tube", is an early muzzle-loaded firearm used in the 15th to 17th centuries.
-11)Multistage rocket
-A multistage rocket is a rocket that uses two or more stages, each of which contains its own engines and propellant.
-12)Steam engine
-Steam engine is a heat engine that performs mechanical work using steam as its working fluid.
-13)Remote control
-A remote control is a component of an electronics device, most commonly a television set, DVD player.
-14)Computer
-A computer is a general purpose device that can be programmed to carry out a finite set of arithmetic or logical operations.
-15)Domestic robot
-A domestic robot, or service robot, is an autonomous robot that is used for household chores. 
+-------------------------------------------------------------------------------
+
+             LIST OF INFORMATION ABOUT APPLIENCES :
+
+1)                           Knife
+     Knife is a cutting tool with an exposed cutting edge or blade, 
+       hand-held or otherwise, with or without a handle.
+
+2)                        Bow and arrow
+      The bow and arrow is a projectile weapon system that predates 
+          ecorded history and is common to most culture.
+
+3)                        Spear-thrower
+      An Atlatl or spear thrower is a tool that uses leverage to 
+      achieve greater velocity in throwing light spears or darts.
+
+4)                            Boat
+       A boat is a watercraft of any size designed to float or 
+              plane, to provide passage across water.
+
+5)                            Sled
+    A sled is a land vehicle with a smooth underside or possessing
+          a separate body supported by two or more smooth.
+
+6)                       Domestic robot
+     A domestic robot, or service robot, is an autonomous robot
+                 that is used for household chores. 
+
+-------------------------------------------------------------------------------

@@ -5,8 +5,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-void input_valid_string_data(char *information, char *input_text, int max_number_of_symbols);
-int input_valid_int_data(char *information, int Min, int Max);
+void str_input(char *information, char *input_text, int max_number_of_symbols);
+int int_input(char *information, int Min, int Max);
 void help_output();
 
 #endif /* _LIB1_H_ */
