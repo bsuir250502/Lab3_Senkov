@@ -121,7 +121,7 @@ void manual_input_output(ring_t point)
 int add_element(ring_t *point)
 {
     information_t *new_element;
-    new_element = (information_t*)malloc(sizeof(new_element));
+    new_element = (information_t*)malloc(sizeof(*new_element));
     new_element->next = NULL;
     str_input(" name: ", new_element->name, STR_MAX);
     if (!strcmp(new_element->name, "stop")) {
