@@ -5,13 +5,16 @@
 
   Input of information about appliance:
 
-      1) automatic input:
+      2) automatic input:
       	* name.
       	* brief information.
 
       2) manual input :
       		-//-
 
-  And output.    		
+  And output:
+  	  * in input order.
+  	  * in the reverse order.
+      * ring.    		
    
 ===============================================================
