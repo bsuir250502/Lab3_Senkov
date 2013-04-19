@@ -140,10 +140,9 @@ int add_element(ring_t *point)
 
 void inverse(ring_t *point, int elements_number) 
 {   int i,j;
-    information_t *info;
-    information_t *element;
+    information_t *info, *element;
     info = point->last;
-    for (i = elements_number -2; i >0  ; i--) {
+    for (i = elements_number - 2; i > 0; i--) {
         element = point->first;
         for (j = 0; j < i; j++) {
             element = element->next;
@@ -161,7 +160,7 @@ void output_of_order(char *which, ring_t *point, int elements_number)
 {
     int i;
     information_t *info;
-    info=point->first; 
+    info = point->first; 
     printf ("\n----------   Info output in %s order:   ----------\n", which);
     for(i = 0; i < elements_number; i++) {
         printf ("%d) name: %s\n   main info:%s\n",
