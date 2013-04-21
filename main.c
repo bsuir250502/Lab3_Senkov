@@ -32,7 +32,6 @@ int main(int argc, char **argv)
     ring_t point;
     point.first = NULL;
     point.last = NULL;
-
     help(argc,argv);
     administration(point);
     return 0;
@@ -50,12 +49,7 @@ void file_output(char *file_name)
 {   
     char input_buffer[STR_MAX];
     FILE *file;
-    if (!strcmp(file_name, "README.txt")) {
-        file = fopen("README.txt","r") ;
-    }
-    else if (!strcmp(file_name, "info.txt")) {
-        file = fopen("info.txt","r") ;
-    }
+    file = fopen(file_name, "r") ;
     while (fgets(input_buffer, sizeof(input_buffer)/sizeof(*input_buffer), file)) {
             printf ("%s", input_buffer);
         }
@@ -111,10 +105,6 @@ void manual_input_output(ring_t point)
     point.last->next = point.first;
     output_of_order("first", &point, elements_number);
     inverse(&point, elements_number);
-
-
-
-
     output_of_order("inverse", &point, elements_number);
 }
 

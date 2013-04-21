@@ -5,7 +5,7 @@
 
   Input of information about appliance:
 
-      2) automatic input:
+      1) automatic input:
       	* name.
       	* brief information.
 
