@@ -15,6 +15,6 @@
   And output:
   	  * in input order.
   	  * in the reverse order.
-      * ring.    		
+          * ring.    		
    
 ===============================================================
